@@ -11,3 +11,4 @@ Implentation plan, wanted features:
 
 ### Wishlist:
 - Can create mod bundles you can send to a friend, to make it easier for them to run the exact same mods you are for multiplayer
+    - Make sure this isn't a bad idea? Copyright issues? Malware?
